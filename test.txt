@@ -2,4 +2,7 @@ rr
 changing nw 
 restart
 
+
 offline change
+online change
+
